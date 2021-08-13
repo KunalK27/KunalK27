@@ -1,3 +1,12 @@
 [![Header](https://raw.githubusercontent.com/KunalK27/KunalK27/KunalK27/readme_header.png "Header")](https://www.linkedin.com/in/kunalkulkarni27)
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey There! Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+* I am *Kunal Kulkarni*, a Junior Pursuing Computer Science with Specialization in Bioinformatics at Vellore Institute of Technology, Vellore!
+* I am usually working on MERN Stack Web Development
+* I am currently Learning Deep Learning and Natural Language Processing
+* I always look forward to working on DSA and Competitive Coding in Java
+* I am looking for help in DSA and Machine Learning
+* Ask me about Web Development and Computer Science Concepts
+* Preferred Pronouns: He/Him
 
+[![Kuna;'s GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalK27&show_icons=true&theme=tokyonight&count_private=true)
+)](https://github.com/KunalK27/github-readme-stats)
