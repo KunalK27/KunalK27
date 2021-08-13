@@ -8,5 +8,4 @@
 * Ask me about Web Development and Computer Science Concepts
 * Preferred Pronouns: He/Him
 
-[![Kuna;'s GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalK27&show_icons=true&theme=tokyonight&count_private=true)
-)](https://github.com/KunalK27/github-readme-stats)
+![Kunal;'s GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalK27&show_icons=true&theme=vision-friendly-dark&count_private=true)
