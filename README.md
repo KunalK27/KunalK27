@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/KunalK27/KunalK27/KunalK27/readme_header.png "Header")](https://www.linkedin.com/in/kunalkulkarni27)
+
 # Hey There! Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 * I am *Kunal Kulkarni*, a Junior Pursuing Computer Science with Specialization in Bioinformatics at Vellore Institute of Technology, Vellore!
 * I am usually working on MERN Stack Web Development
