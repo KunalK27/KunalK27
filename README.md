@@ -55,10 +55,13 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="100" height="80"/> </a> 
 </p>
 <br><br>
-<p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalk27&show_icons=true&theme=highcontrast&locale=en" alt="kunalk27" width="480" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalk27&theme=highcontrast" alt="kunalk27" width="480"/>
-</p>
+<table style="border: transparent">
+ <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=kunalk27&show_icons=true&theme=highcontrast&locale=en" alt="kunalk27" /></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalk27&theme=highcontrast" alt="kunalk27"/></td>
+ </tr>
+</table>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalk27&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="kunalk27" />
 
 </p>
