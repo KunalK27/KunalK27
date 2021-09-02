@@ -23,7 +23,7 @@
 - 🤝 Preferred Pronouns **He/Him**
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3> 
 <p align="center">
 <a href="https://twitter.com/kunalk27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalk27" height="60" width="80" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunalkulkarni27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunalkulkarni27/" height="60" width="80" /></a>
