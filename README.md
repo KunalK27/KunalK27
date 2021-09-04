@@ -1,4 +1,4 @@
-<h1 align="center">Hey There! Welcome to my Profile! 👋, I'm Kunal Kulkarni</h1>
+<h1 align="center">Hey There! Welcome to my Profile! 👋, I'm Kunal Kulkarni</h1> 
 <h3 align="center">A Pre-Final Year Pursuing Computer Science with Specialization in Bioinformatics at Vellore Institute of Technology, Vellore!</h3>
 
 
