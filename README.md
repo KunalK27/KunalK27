@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on **MERN Stack Web Development** 
 
-- 📚 I’m currently learning **Deep Learning and Backend Development**
+- 📚 I’m currently learning **Deep Learning and Backend Development** 
 
 - 🙌 I always look forward to work on **Data Structures and Algorithms in Java**
 
